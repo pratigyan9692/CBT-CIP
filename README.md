@@ -64,3 +64,4 @@ The **Student Record Management System** is a straightforward C++ project design
    - Search records: Finds a student by their Roll Number.
    - Update records: Allows modifications to existing entries.
    - Delete records: Removes all or specific records based on user choice.
+pratigyan 
