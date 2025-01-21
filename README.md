@@ -19,6 +19,25 @@ The **Student Record Management System** is a straightforward C++ project design
 - ❌ **Delete Student Records (Full or Specific)**
 
 ---
+# 🖩 Digital Calculator
+
+A simple, interactive, and modular **C++ Digital Calculator** program that performs basic arithmetic operations: addition, subtraction, multiplication, and division.
+
+---
+
+## 🚀 Features
+- **Interactive Menu**: Select operations through a user-friendly menu.
+- **Error Handling**: Avoid invalid operations like division by zero.
+- **Modular Design**: Clear and reusable functions for each operation.
+
+---
+
+## 🛠️ How to Use
+1. **Compile the Code**:
+   Use any C++ compiler, such as `g++`:
+   ```bash
+   g++ calculator.cpp -o calculator
+
 
 ## 🛠️ How It Works
 1. **User Interaction**:
