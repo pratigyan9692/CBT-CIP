@@ -19,35 +19,58 @@ The **Student Record Management System** is a straightforward C++ project design
 - ❌ **Delete Student Records (Full or Specific)**
 
 ---
-# 🖩 Digital Calculator
+# ✨ Digital Calculator 🧮
 
-A simple, interactive, and modular **C++ Digital Calculator** program that performs basic arithmetic operations: addition, subtraction, multiplication, and division.
-
----
-
-## 🚀 Features
-- **Interactive Menu**: Select operations through a user-friendly menu.
-- **Error Handling**: Avoid invalid operations like division by zero.
-- **Modular Design**: Clear and reusable functions for each operation.
+Welcome to the *Digital Calculator*, a versatile and user-friendly program that lets you perform various mathematical operations with ease. Whether it's basic arithmetic, trigonometric functions, or even factorials—this calculator has got you covered!
 
 ---
 
-## 🛠️ How to Use
-1. **Compile the Code**:
-   Use any C++ compiler, such as `g++`:
-   ```bash
-   g++ calculator.cpp -o calculator
+## 📋 Features
 
+This calculator supports:
 
-## 🛠️ How It Works
-1. **User Interaction**:
-   - The user is presented with a menu containing options to enter, display, search, update, or delete student records.
-2. **Data Management**:
-   - Information such as Name, Roll Number, Course, Class, and Contact is stored in arrays.
-3. **Operations**:
-   - Add records: Collects user input and appends it to the arrays.
-   - Display records: Outputs all stored student data.
-   - Search records: Finds a student by their Roll Number.
-   - Update records: Allows modifications to existing entries.
-   - Delete records: Removes all or specific records based on user choice.
+- *Basic Operations*
+  - ➕ Addition  
+  - ➖ Subtraction  
+  - ✖ Multiplication  
+  - ➗ Division  
+  - 🔢 Modulus  
+
+- *Advanced Operations*
+  - 🧮 Power  
+  - √ Square Root  
+  - 📈 Logarithm (Base e)  
+  - ❗ Factorial  
+
+- *Trigonometric Functions*
+  - 🔁 Sine (sin)  
+  - ↪ Cosine (cos)  
+  - 🔄 Tangent (tan)  
+
+---
+
+## 🚀 How to Use
+
+1. Clone the repository and compile the code using any C++ compiler or IDE (e.g., VS Code).
+2. Run the program to see the *calculator menu*:
+    
+    -----------------------------------
+              DIGITAL CALCULATOR       
+    -----------------------------------
+      ADD      |   SUB      |   DIV    
+      MUL      |   MOD      |   POWER  
+      SQRT     |   LOG      |   FACTORIAL
+      SIN      |   COS      |   TAN    
+    -----------------------------------
+      Enter 'Q' to Quit
+    -----------------------------------
+    
+
+3. Select an operation by entering its symbol or keyword (e.g., +, s, !).
+4. Follow the prompts to input values.
+5. Get the result instantly!
+
+---
+
+   
 
